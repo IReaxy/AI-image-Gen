@@ -1,8 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #cfc7c7;
-    display: flex;
+    background-color: #bebaba;
     flex-direction: column;
     width: 100vw;
     height: 100vh;
@@ -54,4 +53,5 @@ input {
     position: absolute;
     top: 10px;
     right: 30px;
+    cursor: pointer;
 }
